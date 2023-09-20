@@ -1,12 +1,16 @@
 
 body{
-    background: blue ;
+   
 }
 
 #logo{
     width: 100%;
     height: 600px;
 
+}
+
+.principal{
+  background: blue;
 }
 
 h1 {
@@ -26,3 +30,10 @@ em strong {
     color: red;
 }
 
+.itens {
+    font-style: italic;
+}
+
+.valores {
+    background: white;
+}
