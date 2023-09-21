@@ -10,8 +10,9 @@ body{
 }
 
 .principal{
-  background: blue;
+    background: blue;
 }
+
 
 h1 {
     text-align: center;
@@ -36,4 +37,14 @@ em strong {
 
 .valores {
     background: white;
+}
+
+h2{
+    text-align: center;
+}
+
+
+#logovalores{
+    width: 100%;
+    height: 600px;
 }
